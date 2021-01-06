@@ -1,5 +1,7 @@
 {
   "name": "goppaiBiz",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
